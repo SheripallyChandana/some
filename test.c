@@ -41,6 +41,8 @@ void socket_server() {
 
 int main(){
 
+	printf("First Commit");
+
 	socket_server();
 	getchar();
 }
